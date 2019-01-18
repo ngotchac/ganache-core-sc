@@ -6,4 +6,6 @@ TODO
 .DS_Store
 .tern-port
 .vscode
-yarn.lock
+build
+npm-shrinkwrap.json.bak
+test/testdb
